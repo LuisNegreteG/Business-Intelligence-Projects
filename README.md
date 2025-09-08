@@ -17,7 +17,7 @@ Each project demonstrates how I transform raw data into **actionable insights** 
 
 ---
 
-### 2. Hospital Ratings & Timeliness (Tableau)
+### 2. Hospital Quality Intelligence (Tableau)
 - **Goal**: Provide regulators with a tool to evaluate **hospital quality across the U.S.**.  
 - **Highlights**:
   - Benchmarks by **state, ownership type, and emergency services**.  
